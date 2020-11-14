@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "egahack5",
   "version": "1.0.0",
@@ -19,3 +20,26 @@
     "tailwindcss": "^1.9.6"
   }
 }
+=======
+{
+  "name": "egahack5",
+  "version": "1.0.0",
+  "description": "startar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karlacorrea.startar.git"
+  },
+  "keywords": [
+    "KC"
+  ],
+  "author": "Karla Correa",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
+>>>>>>> 3826812dd52094c8cd844593c44a060acf44fb80
